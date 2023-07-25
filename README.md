@@ -31,6 +31,7 @@ cd process-manager
 ```
 
 3️⃣ Build
+
 To compile the project, open the `.pro` file in Qt Creator and click on Build.
 
 4️⃣ Run
