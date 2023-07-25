@@ -20,21 +20,21 @@ This project is a simple Process Manager made with Qt Creator. It allows monitor
 
 The project was created using Qt Creator, so it is necessary to have Qt Creator installed to compile and run the project.
 
-1️⃣ Clone this repository
+1️. Clone this repository
 ```bash
 git clone https://github.com/thaisaraujo2000/process-manager.git
 ```
 
-2️⃣ Go to the directory of the project
+2️. Go to the directory of the project
 ```bash
 cd process-manager
 ```
 
-3️⃣ Build
+3️. Build
 
 To compile the project, open the `.pro` file in Qt Creator and click on Build.
 
-4️⃣ Run
+4️. Run
 
 To run the project, click on Run in Qt Creator.
 
