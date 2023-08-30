@@ -49,7 +49,7 @@ The code also utilizes various operating system functionalities, like the `kill`
 ## 👥 Team Members
 
 - [Morsinaldo Medeiros](https://github.com/Morsinaldo)
-- [Thaís Medeiros](https://github.com/thaisaraujo2000)
+- [Thaís Medeiros](https://github.com/thaisaraujom)
 
 ## 📝 License
 
