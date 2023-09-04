@@ -22,7 +22,7 @@ The project was created using Qt Creator, so it is necessary to have Qt Creator 
 
 1️. Clone this repository
 ```bash
-git clone https://github.com/thaisaraujo2000/process-manager.git
+git clone https://github.com/thaisaraujom/process-manager.git
 ```
 
 2️. Go to the directory of the project
